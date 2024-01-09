@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "firstmod:block/test",
+    "up": "firstmod:block/test",
+    "north": "firstmod:block/test",
+    "east": "firstmod:block/test",
+    "south": "firstmod:block/test",
+    "west": "firstmod:block/test",
+    "particle": "firstmod:block/test"
+  },
+  "render_type": "solid"
+}
